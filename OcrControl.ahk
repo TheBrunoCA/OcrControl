@@ -1,7 +1,7 @@
 #Requires AutoHotkey v2.0
 
-#Include RapidOcr\RapidOcr.ahk
-#Include Screenshooter.ahk
+#Include dependencies\RapidOcr\RapidOcr.ahk
+#Include dependencies\Screenshooter\Screenshooter.ahk
 
 MAX_TRIES_LIMIT := 10 ; Define a constant for the maximum tries limit
 

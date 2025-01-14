@@ -1,0 +1,4 @@
+
+[submodule "dependencies/Screenshooter"]
+	path = dependencies/Screenshooter
+	url = https://github.com/TheBrunoCA/Screenshooter
